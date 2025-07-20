@@ -1,0 +1,98 @@
+body{
+    background-color: #f3e9e3;
+    margin: 0;
+    padding: 0;
+}
+.recipe-container
+{
+    max-width: 750px;
+    margin: 40px auto;
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 16px;
+}
+.recipe-pic
+{
+    width: 100%;
+    border-radius: 12px;
+}
+.recipe-header
+{
+    margin-bottom: 20px;
+}
+.recipe-title
+{
+    color: #3d1c10;
+    font-size: 32px;
+}
+.recipe-describtion
+{
+    color: #555;
+    font-size: 16px;
+}
+.prep-time-section
+{
+    background-color: #f9f0fc;
+    border-left: 6px solid #bb70d4;
+    padding: 16px;
+    border-radius: 10px;
+    margin-bottom: 25px;
+}
+.prep-title
+{
+    margin-top: 0;
+    font-size: 18px;
+    color: #4a1c53;
+}
+.prep-time-list
+{
+    list-style-type: none;
+    padding-left: 0;
+}
+.ingrediants-list
+{
+    padding-left: 20px;
+}
+.instructions-sections
+{
+    margin-bottom: 25px;
+}
+.instructions-list
+{
+    padding-left: 20px;
+}
+.nutrition-section
+{
+    margin-bottom: 25px;
+}
+.nutrition-note
+{
+    color: #777;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+.nutrition-table
+{
+    width: 100%;
+    margin-top: 15px;
+    font-size: 16px;
+    background-color: #fff;
+}
+.nutrition-table th
+{
+    width: 40%;
+    background-color: #f3e9e3;
+    color: #3d1c10;
+    font-weight: bold;
+    border-right: 1px solid;
+    padding: 12px 16px;
+    text-align: left;
+    border-bottom: 1px solid;
+}
+.nutrition-table td
+{
+    padding: 12px 16px;
+    text-align: left;
+    border-bottom: 1px solid;
+    color: #444;
+}
